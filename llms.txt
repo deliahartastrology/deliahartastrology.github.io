@@ -1,0 +1,8 @@
+# Delia Hart · Venus & Love Patterns
+
+> Link-in-bio page for Delia Hart's short videos about Venus and love patterns. Your sun sign isn't why you keep choosing him. It's your Venus. The page has a one-tap game, "Guess your Venus element" (fire, earth, air or water), and a link to the Love Chart quiz by Auraly, which shows your real Venus.
+
+## Pages
+
+- [Instagram link in bio](https://deliahartastrology.github.io/): headline, the element game and the quiz link
+- [Facebook link in bio](https://deliahartastrology.github.io/fb/): the same page with the Facebook link
